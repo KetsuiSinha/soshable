@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.chill {
+    font-family: 'Satoshi', sans-serif;
+}
+.clash{
+    font-family: 'Clash Display', sans-serif;
+}
+body{
+    background-color: "#FDF5E6"
+}
